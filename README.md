@@ -6,7 +6,7 @@ Controla seu mouse e desenha coisas legais
 
 Requerimentos:
 * [python](https://www.python.org/)
-* [AutoHotKey](https://www.autohotkey.com/)
+* [AutoHotKey](https://www.autohotkey.com/) // Esse bot funciona apenas no Windows
 
 execute o comando na pasta do projeto
 ```bash
